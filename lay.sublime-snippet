@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@layout('${1:tamplate}')
+@layout('${1:template}')
 
 @section('${2:content}')
 
